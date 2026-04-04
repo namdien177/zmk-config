@@ -1,6 +1,6 @@
 ---
 include:
-  - board: glove80_lh
+  - board: glove80_lh//zmk
     snippet: studio-rpc-usb-uart
     cmake-args: "-DCONFIG_ZMK_STUDIO=y"
-  - board: glove80_rh
+  - board: glove80_rh//zmk

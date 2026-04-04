@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: moergo-sc
-      revision: main
+      revision: zephyr-4-1
       import: app/west.yml
   self:
     path: config
