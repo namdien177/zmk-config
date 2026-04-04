@@ -19,6 +19,16 @@ Personal ZMK firmware config for the [MoErgo Glove80](https://www.moergo.com/col
 | `config/glove80.conf` | ZMK config flags (`CONFIG_ZMK_STUDIO=y`) |
 | `.github/workflows/build.yml` | GitHub Actions workflow using MoErgo's reusable build |
 
+## Current Layout
+
+### Base Layer
+
+![Base Layer](assets/layer-base.png)
+
+### Lower Layer
+
+![Lower Layer](assets/layer-lower.png)
+
 ## How to update the keymap
 
 1. Edit your layout at [my.glove80.com](https://my.glove80.com/)
